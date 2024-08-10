@@ -7,7 +7,7 @@ dmxlc3M6Ly8yY2Q2ZWQwZi02MzZlLTRlNmMtOTQ0OS01YTI2M2Q3YTBmYTVAMTA0LjE5LjEyOC44Nzo0
 ```
 # VCF
 ```
-trojan://HF#-fja21sf68e.+a3-afh3o06@tr.merit.eu.org:443?security=tls&type=ws&host=tr.merit.eu.org&path=%2F#cf-tr
+dHJvamFuOi8vOWY2MTBkOWQtYzAyOC00Y2VhLWI0NjYtOWU3NDExNWRjMGRmQHRyLm1lcml0LmV1Lm9yZzo0NDM/c2VjdXJpdHk9dGxzJnR5cGU9d3MmaG9zdD10ci5tZXJpdC5ldS5vcmcmcGF0aD0lMkYjY2YtdHI=
 ```
 ```
 dmxlc3M6Ly9iMjljZDQzOS0yMjZlLTQ4ZjUtOTVhZC1iMzhkOGNhMmY1MTlAeWd2bC5tZXJpdC5ldS5vcmc6NDQzP2VuY3J5cHRpb249bm9uZSZzZWN1cml0eT10bHMmc25pPXlndmwubWVyaXQuZXUub3JnJmZwPXJhbmRvbSZ0eXBlPXdzJmhvc3Q9eWd2bC5tZXJpdC5ldS5vcmcmcGF0aD0lMkYlM0ZlZCUzRDI1NjAjY2YtdmwtdGxz
