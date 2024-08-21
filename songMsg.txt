@@ -15,3 +15,11 @@ export function  equipmanKnightQuery(data = {}) {
     data,
   })
 }
+admin/store/equip/save/update
+{
+    "title": "蜡笔小新战斗鸡009", //装备标题
+    "img": "https://img.ivshan.com/uploads/20240805/909790f5e69ace143f47177f9ae88103.png", //装备图片
+    "price": "20", //装备价格
+    "detail": "玩偶", //装备详情
+    "status": "1" //装备上架状态,0可用，1不可用
+}
