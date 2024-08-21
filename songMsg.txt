@@ -1,0 +1,17 @@
+import request from '@/utils/javaRequest'
+
+
+/**
+ * 骑士装备查询
+ * @param title // 装备标题（名字） ，可以为空
+ * @param status // 装备状态  0：上架，1：下架 ，可以为空
+ * @param pageNo // 当前页码
+ * @param pageSize // 当前页面展示的数量
+ */
+export function  equipmanKnightQuery(data = {}) {
+  return request({
+    url: 'admin/store/equip/list',
+    method: 'post',
+    data,
+  })
+}
