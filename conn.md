@@ -16,11 +16,11 @@ hysteria2://be23731a-eb13-4fc7-963d-ac6183391191@3hk.urbanquokka.cloud:16518/?sn
 ```
 https://github.com/2dust/v2rayN/releases
 ```
-(安卓)v2rayNG：
+# (安卓)v2rayNG：
 ```
-[https://github.com/2dust/v2rayNG](https://github.com/2dust/v2rayNG/releases)
+https://github.com/2dust/v2rayNG/releases
 ```
-(苹果)V2Box：
+# (苹果)V2Box：
 ```
 https://apps.apple.com/app/id6446814690
 ```
