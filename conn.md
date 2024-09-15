@@ -12,7 +12,15 @@ vless://b29cd439-226e-48f5-95ad-b38d8ca2f519@ygvl.merit.eu.org:443?encryption=no
 ```
 hysteria2://be23731a-eb13-4fc7-963d-ac6183391191@3hk.urbanquokka.cloud:16518/?sni=3hk.urbanquokka.cloud&alpn=h3&insecure=0#hy2-ubuntu22-04
 ```
-# V2NG
+# V2NG(win)
 ```
 https://github.com/2dust/v2rayN/releases
+```
+(安卓)v2rayNG：
+```
+https://github.com/2dust/v2rayNG
+```
+(苹果)V2Box：
+```
+https://apps.apple.com/app/id6446814690
 ```
