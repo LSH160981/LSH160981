@@ -18,7 +18,7 @@ https://github.com/2dust/v2rayN/releases
 ```
 (安卓)v2rayNG：
 ```
-https://github.com/2dust/v2rayNG
+[https://github.com/2dust/v2rayNG](https://github.com/2dust/v2rayNG/releases)
 ```
 (苹果)V2Box：
 ```
