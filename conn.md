@@ -1,6 +1,6 @@
 # TFG
 ```
- 
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@43.156.253.94:443?encryption=none&security=tls&sni=juzi8186.5112233.xyz&fp=random&allowInsecure=1&type=ws&host=juzi8186.5112233.xyz&path=%2F%3Fed%3D2560#TG-Singapore5
 ```
 # VCF
 ```
@@ -18,4 +18,9 @@ https://github.com/2dust/v2rayNG/releases
 # (苹果)V2Box：
 ```
 https://apps.apple.com/app/id6446814690
+```
+
+- sing-box精装桶一键脚本【Hysteria2、Tuic5、Vless-reality、Vmess-ws/argo】
+```
+bash <(wget -qO- https://raw.githubusercontent.com/yonggekkk/sing-box-yg/main/sb.sh)
 ```
